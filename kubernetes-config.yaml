@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: todo-app-container
-          image: sharan8989/todomyapi:1.0
+          image: sharan8989/todomyapi:2.0
           ports:
             - containerPort: 8081
 
